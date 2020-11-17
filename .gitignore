@@ -1,0 +1,11 @@
+# Created by https://www.toptal.com/developers/gitignore/api/python
+# Edited manually for relevant sections so far
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environments
+
+venv/
+
