@@ -1,4 +1,6 @@
 import os
+basedir = os.path.abspath(os.path.dirname(__file__))
+
 
 #  configuration settings defined as class variables inside the Config class
 class Config(object):
